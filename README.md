@@ -47,6 +47,15 @@ streamline_bundle_view_AMD.py
 Allows for the viewing of specific bundles, streamlines, etc based on the results of streamline_bundle_stats_AMD.py (good for figure generation and quality control)
 
 
+Other useful files:
+
+submit_sge_cluster_job.bash will be the main file used for submission of jobs to a computing cluster referred to in the myriad cluster wrappers.
+If a cluster is not available, feel free to create a loop submitting the jobs to the 'clustered' files on a per subject basis
+
+This pipeline will occasionally refer to the DTC pipeline, which can be found here:
+https://github.com/JacquesStout/DTC
+Please refer to this paper if you are to use the tools available here
+
 
 
 
