@@ -1,7 +1,7 @@
 # AMD
 Main folder for AMD project 2023
 
-Diffusion preprocessing and triaging:
+Diffusion preprocessing and organizing data for SAMBA:
 
 SAMBA_prep_AMD.py
 Goes through the relevant files from the AMD project, runs basic diffusion preprocesses and places all files in a specific folder in the format required for the running of SAMBA on the entire project line.
